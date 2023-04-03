@@ -1,0 +1,13 @@
+import numpy as np  #calcul(array)
+import matplotlib.pyplot as plt
+import pandas as pd #dataframe
+import seaborn as sns
+
+# avoid warnings 
+import warnings 
+warnings.filterwarnings('ignore')
+%matplotlib inline
+
+# apload data
+df2 = pd.read_csv("dataset2.csv")
+df1 = pd.read_csv("dataset1.csv")
