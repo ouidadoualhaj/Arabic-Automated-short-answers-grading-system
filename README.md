@@ -16,8 +16,4 @@ should be in Arabic, and you should prepare your own dataset.
 
 • Model deployment and consumption via spa web application.
 
-Specific Tools: NLTK, Word2vec, Glove, etc.
-
-
-Tools : S klearn , flask/fastapi , GraphQL , kafka , angular/react , scrapy, Doker , kubernetes ,
-airflow , kibana, github.
+Tools : NLTK, Word2vec, Glove, Sklearn , flask/fastapi , angular, scrapy, Doker , github.
